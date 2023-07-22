@@ -11,5 +11,4 @@ This repository contains a simple Keylogger implementation in Python. A keylogge
 ## Requirements
 - Python 3.x
 
-## Usage
-1. Clone the repository:
+
