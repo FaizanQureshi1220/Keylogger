@@ -1,5 +1,4 @@
-# Keylogger
-# Keylogger in Python
+# Keylogge
 
 This repository contains a simple Keylogger implementation in Python. A keylogger is a program that captures and records the keystrokes made by a user on a computer or mobile device. It can be useful for various legitimate purposes, such as monitoring computer usage for educational or administrative reasons.
 
